@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/inputNumber"
+        android:title="数字を入力">
+  </item>
+  <item android:id="@+id/toParent"
+        android:title="親">
+  </item>
+</menu>
